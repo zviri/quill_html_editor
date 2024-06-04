@@ -1,3 +1,7 @@
+### 2.2.10
+
+- Updated the http dependency version
+
 ### 2.2.9
 
 - Updated the file_picker dependency version
