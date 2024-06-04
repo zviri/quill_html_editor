@@ -1,3 +1,7 @@
+### 2.2.9
+
+- Updated the file_picker dependency version
+
 ### 2.2.8
 
 - Updated all dependencies to their latest versions
