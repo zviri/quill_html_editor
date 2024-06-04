@@ -240,8 +240,8 @@ Method to dispose the controller
 
 For a complete sample, see the [Getting started sample][] in the example directory.
 
-[Getting started sample]: https://github.com/the-airbender/quill_html_editor/blob/main/example/lib/main.dart
+[Getting started sample]: https://github.com/the-airbender/quill_html_editor_v2/blob/main/example/lib/main.dart
 
-[Getting Started]: https://github.com/the-airbender/quill_html_editor/tree/main/doc/get-started.md
+[Getting Started]: https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/get-started.md
 
-[QuillHtmlEditor]:  https://github.com/the-airbender/quill_html_editor/tree/main/doc/quill-html-editor-setup.md
+[QuillHtmlEditor]:  https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/quill-html-editor-setup.md

@@ -52,10 +52,10 @@ width="600" alt="1" src="https://i.imgur.com/3PrFsZU.png">
 ## Documentation
 See the API documentation for details on the following topics:
 
-- [Getting started](https://github.com/the-airbender/quill_html_editor/tree/main/doc/get-started.md)
-- [Quill Html Editor Usage](https://github.com/the-airbender/quill_html_editor/tree/main/doc/quill-html-editor-setup.md)
-- [Quill Controller Usage](https://github.com/the-airbender/quill_html_editor/tree/main/doc/quill-editor-controller-setup.md)
-- [ToolBar Usage](https://github.com/the-airbender/quill_html_editor/tree/main/doc/toolbar-setup.md)
+- [Getting started](https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/get-started.md)
+- [Quill Html Editor Usage](https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/quill-html-editor-setup.md)
+- [Quill Controller Usage](https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/quill-editor-controller-setup.md)
+- [ToolBar Usage](https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/toolbar-setup.md)
 
 
 

@@ -7,15 +7,15 @@ import 'dart:js' as js;
 
 import 'package:flutter/material.dart';
 import 'package:pointer_interceptor/pointer_interceptor.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/controller/impl/web.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/controller/interface.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/controller/impl/web.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/controller/interface.dart'
     as ctrl_interface;
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/constants.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/dart_ui_fix.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/constants.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/dart_ui_fix.dart'
     as ui;
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/logger.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/utils.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/view/interface.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/logger.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/utils.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/view/interface.dart'
     as view_interface;
 
 /// Web implementation

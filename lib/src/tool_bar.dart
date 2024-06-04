@@ -2,13 +2,13 @@ import 'dart:core';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:quill_html_editor/quill_html_editor.dart';
-import 'package:quill_html_editor/src/constants/image_constants.dart';
-import 'package:quill_html_editor/src/utils/hex_color.dart';
-import 'package:quill_html_editor/src/widgets/color_picker.dart';
-import 'package:quill_html_editor/src/widgets/image_picker.dart';
-import 'package:quill_html_editor/src/widgets/table_picker.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/webviewx_plus.dart';
+import 'package:quill_html_editor_v2/quill_html_editor_v2.dart';
+import 'package:quill_html_editor_v2/src/constants/image_constants.dart';
+import 'package:quill_html_editor_v2/src/utils/hex_color.dart';
+import 'package:quill_html_editor_v2/src/widgets/color_picker.dart';
+import 'package:quill_html_editor_v2/src/widgets/image_picker.dart';
+import 'package:quill_html_editor_v2/src/widgets/table_picker.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/webviewx_plus.dart';
 
 import 'widgets/edit_table_drop_down.dart';
 import 'widgets/el_tooltip/el_tooltip.dart';

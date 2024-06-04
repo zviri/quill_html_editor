@@ -1,4 +1,4 @@
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/source_type.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/source_type.dart';
 
 /// Model class for webview's content
 ///

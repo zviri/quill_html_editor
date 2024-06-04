@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'dart:typed_data';
 
 import 'package:path/path.dart' as p;
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/constants.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/embedded_js_content.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/constants.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/embedded_js_content.dart';
 import 'package:uuid/uuid.dart';
 
 /// Specifies where to embed ("burn") the javascript inside the HTML source

@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/source_type.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/source_type.dart';
 
 /// A copy from the original webview's navigation delegate typedef
 typedef NavigationDelegate = FutureOr<NavigationDecision> Function(

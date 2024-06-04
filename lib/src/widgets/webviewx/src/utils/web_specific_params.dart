@@ -1,4 +1,4 @@
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/utils.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/utils.dart';
 
 /// Parameters specific to the web version.
 ///

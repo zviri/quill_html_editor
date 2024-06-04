@@ -5,11 +5,11 @@ import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:quill_html_editor/quill_html_editor.dart';
-import 'package:quill_html_editor/src/utils/hex_color.dart';
-import 'package:quill_html_editor/src/utils/string_util.dart';
-import 'package:quill_html_editor/src/widgets/edit_table_drop_down.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/webviewx_plus.dart';
+import 'package:quill_html_editor_v2/quill_html_editor_v2.dart';
+import 'package:quill_html_editor_v2/src/utils/hex_color.dart';
+import 'package:quill_html_editor_v2/src/utils/string_util.dart';
+import 'package:quill_html_editor_v2/src/widgets/edit_table_drop_down.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/webviewx_plus.dart';
 
 /// A typedef representing a loading builder function.
 ///
@@ -179,7 +179,7 @@ class QuillHtmlEditorState extends State<QuillHtmlEditor> {
   @override
   initState() {
     _loadScripts = rootBundle.loadString(
-        'packages/quill_html_editor/assets/scripts/quill_2.0.0_4_min.js');
+        'packages/quill_html_editor_v2/assets/scripts/quill_2.0.0_4_min.js');
     _fontFamily = widget.textStyle?.fontFamily ?? 'Roboto';
     _encodedStyle = Uri.encodeFull(_fontFamily);
     isEnabled = widget.isEnabled;

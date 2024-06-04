@@ -35,11 +35,11 @@ ToolBar widget is optional and is completely isolated from the Editor widget, wh
 
 For a complete sample, see the [Getting started sample][] in the example directory.
 
-[Getting started sample]: https://github.com/the-airbender/quill_html_editor/blob/main/example/lib/main.dart
+[Getting started sample]: https://github.com/the-airbender/quill_html_editor_v2/blob/main/example/lib/main.dart
 
 
-[QuillEditorController]: https://github.com/the-airbender/quill_html_editor/tree/main/doc/quill-editor-controller-setup.md
+[QuillEditorController]: https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/quill-editor-controller-setup.md
 
 
-[Getting Started]: https://github.com/the-airbender/quill_html_editor/tree/main/doc/get-started.md
+[Getting Started]: https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/get-started.md
 

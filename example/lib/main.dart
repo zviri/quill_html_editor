@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:quill_html_editor/quill_html_editor.dart';
+import 'package:quill_html_editor_v2/quill_html_editor.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

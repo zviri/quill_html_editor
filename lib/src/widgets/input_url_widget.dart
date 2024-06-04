@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/webviewx_plus.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/webviewx_plus.dart';
 
 import '../../quill_html_editor_v2.dart';
 import '../utils/hex_color.dart';

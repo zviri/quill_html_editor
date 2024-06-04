@@ -1,5 +1,5 @@
 To get started, follow the [package installation
-instructions](https://pub.dev/packages/quill_html_editor/install) and add QuillHtmlEditor to your app:
+instructions](https://pub.dev/packages/quill_html_editor_v2/install) and add QuillHtmlEditor to your app:
 
 For more customization, the **QuillHtmlEditor** and **ToolBar** are completely detached. We can define both widgets separately as shown below.
 
@@ -8,7 +8,7 @@ For more customization, the **QuillHtmlEditor** and **ToolBar** are completely d
 #### `QuillHtmlEditor` with required parameters
 
 ```dart
-import 'package:quill_html_editor/quill_html_editor.dart';
+import 'package:quill_html_editor_v2/quill_html_editor.dart';
 
 // Editor widget with required parameters
    QuillHtmlEditor(
@@ -21,7 +21,7 @@ import 'package:quill_html_editor/quill_html_editor.dart';
 #### `QuillHtmlEditor` with all available parameters
 
 ```dart
-import 'package:quill_html_editor/quill_html_editor.dart';
+import 'package:quill_html_editor_v2/quill_html_editor.dart';
 
 // With all available parameters
    QuillHtmlEditor(
@@ -49,7 +49,7 @@ import 'package:quill_html_editor/quill_html_editor.dart';
 
 
 ```dart
-import 'package:quill_html_editor/quill_html_editor.dart';
+import 'package:quill_html_editor_v2/quill_html_editor.dart';
 // With required parameters
   ToolBar(
     controller: controller
@@ -60,7 +60,7 @@ import 'package:quill_html_editor/quill_html_editor.dart';
 
 
 ```dart
-import 'package:quill_html_editor/quill_html_editor.dart';
+import 'package:quill_html_editor_v2/quill_html_editor.dart';
 // With required parameters
  ToolBar(
   controller: controller,
@@ -81,6 +81,6 @@ import 'package:quill_html_editor/quill_html_editor.dart';
 For a complete sample, see the [Getting started sample][] in the example directory.
 For more on how to configure [QuillHtmlEditor] and [Toolbar].
 
-[Getting started sample]: https://github.com/the-airbender/quill_html_editor/blob/main/example/lib/main.dart
-[QuillHtmlEditor]: https://github.com/the-airbender/quill_html_editor/tree/main/doc/quill-html-editor-setup.md
-[Toolbar]: https://github.com/the-airbender/quill_html_editor/tree/main/doc/toolbar-setup.md
+[Getting started sample]: https://github.com/the-airbender/quill_html_editor_v2/blob/main/example/lib/main.dart
+[QuillHtmlEditor]: https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/quill-html-editor-setup.md
+[Toolbar]: https://github.com/the-airbender/quill_html_editor_v2/tree/main/doc/toolbar-setup.md

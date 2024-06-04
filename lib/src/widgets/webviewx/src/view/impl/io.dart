@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/controller/interface.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/controller/interface.dart'
     as ctrl_interface;
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/utils.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/view/impl/mobile.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/utils.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/view/impl/mobile.dart'
     as mobile;
-import 'package:quill_html_editor/src/widgets/webviewx/src/view/interface.dart'
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/view/interface.dart'
     as view_interface;
 
 /// IO implementation

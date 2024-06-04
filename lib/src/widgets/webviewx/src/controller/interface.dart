@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/source_type.dart';
-import 'package:quill_html_editor/src/widgets/webviewx/src/utils/webview_content_model.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/source_type.dart';
+import 'package:quill_html_editor_v2/src/widgets/webviewx/src/utils/webview_content_model.dart';
 
 /// Interface for controller
 abstract class WebViewXController<T> {
