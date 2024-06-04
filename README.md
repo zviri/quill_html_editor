@@ -1,8 +1,9 @@
-![Pub Version](https://img.shields.io/pub/v/quill_html_editor) ![GitHub](https://img.shields.io/github/license/the-airbender/quill_html_editor) ![Pub Points](https://img.shields.io/pub/points/quill_html_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/quill_html_editor)
+#  Quill HTML Editor V2
+
+This is a clone of the [quill_html_editor](https://pub.dev/packages/quill_html_editor) package, which has not been updated for a long period of time. This package includes various updates and improvements to enhance functionality and performance.
 
 
 
-# Quill Html Editor
 
 Quill Html Editor is a powerful HTML rich text editor designed for Android, iOS, and Web platforms. It leverages the capabilities of the QuillJs library, an open-source WYSIWYG editor, to provide a feature-rich editing experience for modern web applications.
 
